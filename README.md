@@ -35,10 +35,6 @@ The Amazon Sales Analysis Project is designed to analyze and visualize sales dat
 2. Place the dataset in the `data` directory.
 3. Open and run the Jupyter Notebook or Python script to start the analysis.
 
-```
-jupyter notebook Amazon_Sales_Analysis.ipynb
-```
-
 ---
 
 Feel free to customize this README according to your specific project details, such as adding sections for data sources, methodology, results, or any other relevant information.
